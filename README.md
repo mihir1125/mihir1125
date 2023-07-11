@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mihir1125
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning numpy, pandas and matplotlib to get started with it
+- 💞️ I’m looking to collaborate on Machine Learning projects
+- 📫 You can reach me at my email: mihir.laxmi@gmail.com
